@@ -86,3 +86,7 @@
 - Practiced on 2026-12-01
 - Approach: Iterative / Optimized
 
+# Valid Anagram
+- Practiced on 2026-12-09
+- Approach: Iterative / Optimized
+
