@@ -90,3 +90,7 @@
 - Practiced on 2026-12-09
 - Approach: Iterative / Optimized
 
+# Valid Anagram
+- Practiced on 2026-12-19
+- Approach: Iterative / Optimized
+
