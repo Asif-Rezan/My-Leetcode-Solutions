@@ -178,3 +178,7 @@
 - Practiced on 2026-12-15
 - Approach: Iterative / Optimized
 
+# Longest Substring Without Repeating Characters
+- Practiced on 2026-12-17
+- Approach: Iterative / Optimized
+
