@@ -146,3 +146,7 @@
 - Practiced on 2026-12-08
 - Approach: Iterative / Optimized
 
+# Two Sum
+- Practiced on 2026-12-21
+- Approach: Iterative / Optimized
+
