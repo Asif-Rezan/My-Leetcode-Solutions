@@ -134,3 +134,7 @@
 - Practiced on 2026-12-05
 - Approach: Iterative / Optimized
 
+# Two Sum
+- Practiced on 2026-12-05
+- Approach: Iterative / Optimized
+
