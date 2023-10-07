@@ -1,5 +1,5 @@
-class Solution:
-    def evalRPN(self, tokens: List[str]) -> int:
+class Solution(object):
+    def evalRPN(self, tokens):
         stack = []
 
         for i in tokens:
@@ -7,7 +7,7 @@ class Solution:
                 stack.append(stack.pop() + stack.pop())
 
             elif i == "-":
-                x,y = stack.pop(), stack.pop()
+                x,y = stack.pop(),stack.pop()
                 stack.append(y-x)
             
             elif i == "*":
@@ -15,10 +15,13 @@ class Solution:
             
             elif i == "/":
                 x,y = stack.pop(), stack.pop()
-                stack.append(int(y/x))
+                stack.append(int(float(y)/ x))
 
             else:
                 stack.append(int(i))
         
+
         return stack[0]
+            
+      
         
