@@ -31,8 +31,17 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Asif-Rezan/My-Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Asif-Rezan/My-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Asif-Rezan/My-Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Asif-Rezan/My-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Asif-Rezan/My-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
