@@ -40,8 +40,17 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Asif-Rezan/My-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Asif-Rezan/My-Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Asif-Rezan/My-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Asif-Rezan/My-Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Asif-Rezan/My-Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
