@@ -32,6 +32,7 @@ Happy coding! 🚀
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Asif-Rezan/My-Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Asif-Rezan/My-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Asif-Rezan/My-Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Asif-Rezan/My-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Asif-Rezan/My-Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Asif-Rezan/My-Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Trie
 |  |
@@ -53,4 +55,12 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Asif-Rezan/My-Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Asif-Rezan/My-Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Asif-Rezan/My-Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
