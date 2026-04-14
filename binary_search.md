@@ -2,3 +2,7 @@
 - Practiced on 2026-04-07
 - Approach: Iterative / Optimized
 
+# Binary Search
+- Practiced on 2026-04-14
+- Approach: Iterative / Optimized
+
