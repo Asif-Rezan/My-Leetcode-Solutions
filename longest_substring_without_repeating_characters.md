@@ -10,3 +10,7 @@
 - Practiced on 2026-04-28
 - Approach: Iterative / Optimized
 
+# Longest Substring Without Repeating Characters
+- Practiced on 2026-05-03
+- Approach: Iterative / Optimized
+
