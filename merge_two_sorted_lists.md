@@ -18,3 +18,7 @@
 - Practiced on 2026-04-29
 - Approach: Iterative / Optimized
 
+# Merge Two Sorted Lists
+- Practiced on 2026-05-03
+- Approach: Iterative / Optimized
+
