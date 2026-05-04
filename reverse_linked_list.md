@@ -14,3 +14,7 @@
 - Practiced on 2026-04-26
 - Approach: Iterative / Optimized
 
+# Reverse Linked List
+- Practiced on 2026-05-04
+- Approach: Iterative / Optimized
+
