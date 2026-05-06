@@ -2,3 +2,7 @@
 - Practiced on 2026-04-19
 - Approach: Iterative / Optimized
 
+# Two Sum
+- Practiced on 2026-05-06
+- Approach: Iterative / Optimized
+
