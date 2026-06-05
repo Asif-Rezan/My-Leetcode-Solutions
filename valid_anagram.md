@@ -14,3 +14,7 @@
 - Practiced on 2026-05-26
 - Approach: Iterative / Optimized
 
+# Valid Anagram
+- Practiced on 2026-06-05
+- Approach: Iterative / Optimized
+
