@@ -14,3 +14,7 @@
 - Practiced on 2026-06-16
 - Approach: Iterative / Optimized
 
+# Valid Parentheses
+- Practiced on 2026-06-19
+- Approach: Iterative / Optimized
+
