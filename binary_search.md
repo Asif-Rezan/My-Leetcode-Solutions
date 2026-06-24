@@ -42,3 +42,7 @@
 - Practiced on 2026-06-16
 - Approach: Iterative / Optimized
 
+# Binary Search
+- Practiced on 2026-06-24
+- Approach: Iterative / Optimized
+
