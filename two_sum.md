@@ -50,3 +50,7 @@
 - Practiced on 2026-06-27
 - Approach: Iterative / Optimized
 
+# Two Sum
+- Practiced on 2026-06-27
+- Approach: Iterative / Optimized
+
