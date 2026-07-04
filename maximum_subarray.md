@@ -46,3 +46,7 @@
 - Practiced on 2026-06-11
 - Approach: Iterative / Optimized
 
+# Maximum Subarray
+- Practiced on 2026-07-04
+- Approach: Iterative / Optimized
+
