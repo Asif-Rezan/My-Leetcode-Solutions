@@ -50,3 +50,7 @@
 - Practiced on 2026-06-26
 - Approach: Iterative / Optimized
 
+# Longest Substring Without Repeating Characters
+- Practiced on 2026-07-09
+- Approach: Iterative / Optimized
+
