@@ -30,3 +30,7 @@
 - Practiced on 2026-07-06
 - Approach: Iterative / Optimized
 
+# Valid Parentheses
+- Practiced on 2026-07-10
+- Approach: Iterative / Optimized
+
