@@ -50,3 +50,7 @@
 - Practiced on 2026-07-12
 - Approach: Iterative / Optimized
 
+# Binary Search
+- Practiced on 2026-07-16
+- Approach: Iterative / Optimized
+
