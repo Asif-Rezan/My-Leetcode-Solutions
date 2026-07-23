@@ -66,3 +66,7 @@
 - Practiced on 2026-07-20
 - Approach: Iterative / Optimized
 
+# Longest Substring Without Repeating Characters
+- Practiced on 2026-07-23
+- Approach: Iterative / Optimized
+
