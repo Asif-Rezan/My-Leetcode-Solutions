@@ -30,3 +30,7 @@
 - Practiced on 2026-06-01
 - Approach: Iterative / Optimized
 
+# Reverse Linked List
+- Practiced on 2026-07-24
+- Approach: Iterative / Optimized
+
