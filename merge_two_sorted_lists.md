@@ -50,3 +50,7 @@
 - Practiced on 2026-07-20
 - Approach: Iterative / Optimized
 
+# Merge Two Sorted Lists
+- Practiced on 2026-08-09
+- Approach: Iterative / Optimized
+
