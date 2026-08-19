@@ -42,3 +42,7 @@
 - Practiced on 2026-07-28
 - Approach: Iterative / Optimized
 
+# Valid Anagram
+- Practiced on 2026-08-19
+- Approach: Iterative / Optimized
+
