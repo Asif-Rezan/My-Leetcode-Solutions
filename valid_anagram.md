@@ -50,3 +50,7 @@
 - Practiced on 2026-08-24
 - Approach: Iterative / Optimized
 
+# Valid Anagram
+- Practiced on 2026-08-28
+- Approach: Iterative / Optimized
+
