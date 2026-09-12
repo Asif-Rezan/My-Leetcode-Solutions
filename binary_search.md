@@ -86,3 +86,7 @@
 - Practiced on 2026-09-04
 - Approach: Iterative / Optimized
 
+# Binary Search
+- Practiced on 2026-09-12
+- Approach: Iterative / Optimized
+
