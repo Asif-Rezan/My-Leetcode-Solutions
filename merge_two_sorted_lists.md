@@ -94,3 +94,7 @@
 - Practiced on 2026-10-02
 - Approach: Iterative / Optimized
 
+# Merge Two Sorted Lists
+- Practiced on 2026-10-05
+- Approach: Iterative / Optimized
+
