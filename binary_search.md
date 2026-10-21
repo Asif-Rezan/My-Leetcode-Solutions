@@ -106,3 +106,7 @@
 - Practiced on 2026-10-02
 - Approach: Iterative / Optimized
 
+# Binary Search
+- Practiced on 2026-10-21
+- Approach: Iterative / Optimized
+
