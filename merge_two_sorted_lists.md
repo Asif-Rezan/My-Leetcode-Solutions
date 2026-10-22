@@ -106,3 +106,7 @@
 - Practiced on 2026-10-20
 - Approach: Iterative / Optimized
 
+# Merge Two Sorted Lists
+- Practiced on 2026-10-22
+- Approach: Iterative / Optimized
+
