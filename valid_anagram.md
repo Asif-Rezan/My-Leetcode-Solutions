@@ -70,3 +70,7 @@
 - Practiced on 2026-10-28
 - Approach: Iterative / Optimized
 
+# Valid Anagram
+- Practiced on 2026-11-05
+- Approach: Iterative / Optimized
+
