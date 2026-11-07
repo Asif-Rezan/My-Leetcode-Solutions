@@ -98,3 +98,7 @@
 - Practiced on 2026-11-05
 - Approach: Iterative / Optimized
 
+# Valid Parentheses
+- Practiced on 2026-11-07
+- Approach: Iterative / Optimized
+
