@@ -126,3 +126,7 @@
 - Practiced on 2026-11-01
 - Approach: Iterative / Optimized
 
+# Best Time to Buy and Sell Stock
+- Practiced on 2026-11-09
+- Approach: Iterative / Optimized
+
