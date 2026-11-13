@@ -94,3 +94,7 @@
 - Practiced on 2026-10-14
 - Approach: Iterative / Optimized
 
+# Climbing Stairs
+- Practiced on 2026-11-13
+- Approach: Iterative / Optimized
+
