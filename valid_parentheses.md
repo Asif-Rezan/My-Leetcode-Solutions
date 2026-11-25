@@ -102,3 +102,7 @@
 - Practiced on 2026-11-07
 - Approach: Iterative / Optimized
 
+# Valid Parentheses
+- Practiced on 2026-11-25
+- Approach: Iterative / Optimized
+
